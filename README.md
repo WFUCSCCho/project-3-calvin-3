@@ -98,16 +98,26 @@ it to this repository.
 ![image](https://github.com/user-attachments/assets/76f103c8-8c02-4bec-9966-99568f2effb6)
 
 Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (already sorted):
+<img width="606" height="376" alt="Screenshot 2025-11-12 at 6 30 50 PM" src="https://github.com/user-attachments/assets/8a94c1fe-5241-4abe-a539-04cc026dfd9c" />
 
 Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (shuffled):
+<img width="598" height="373" alt="Screenshot 2025-11-12 at 6 31 22 PM" src="https://github.com/user-attachments/assets/b3a62097-1699-4c8a-bb7d-af0520fafd44" />
 
 Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (reversed):
+<img width="603" height="371" alt="Screenshot 2025-11-12 at 6 31 41 PM" src="https://github.com/user-attachments/assets/e0f607ee-8b5e-4e24-9ee4-30bdf6a755da" />
 
 Bubble Sort and Odd-Even Transposition Sort comparison (already sorted):
+<img width="596" height="372" alt="Screenshot 2025-11-12 at 6 34 14 PM" src="https://github.com/user-attachments/assets/f3f3d524-32b0-42e8-9277-8db4472297f9" />
 
 Bubble Sort and Odd-Even Transposition Sort comparison (shuffled):
+<img width="599" height="368" alt="Screenshot 2025-11-12 at 6 34 47 PM" src="https://github.com/user-attachments/assets/a800a7ba-9ab3-4889-bb63-97fa7e41bf4f" />
 
 Bubble Sort and Odd-Even Transposition Sort comparison (reversed):
+<img width="597" height="371" alt="Screenshot 2025-11-12 at 6 35 14 PM" src="https://github.com/user-attachments/assets/4a5dbc02-326f-4e4e-b457-bc686e02f338" />
+
+Note* the bottom three graphs look the same because at n = 10,000 bubble sort does so many comparisons it dominates the scale. This makes all the odd-even transposition data look the same. However, note that transposition sort only makes 2 passes on the sorted data regardless of n. Whereas on shuffled or reversed data it does many more (because it actually has to sort stuff). 
+
+Data Spreadsheet: https://docs.google.com/spreadsheets/d/1yVBqx85Ns-d5JuWFYAQ1eu3Xst1cXt8K-0-rffyGvBw/edit?usp=sharing
 
 ## Submission:
 
