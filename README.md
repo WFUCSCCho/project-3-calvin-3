@@ -95,8 +95,9 @@ Using your favorite graphing software (e.g., MS Excel or Google Sheets), plot th
 vs. N for each case. Take a screenshot of your graph and put them here by modifying this file, committing, and pushing 
 it to this repository.
 
-Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (already sorted):
 ![image](https://github.com/user-attachments/assets/76f103c8-8c02-4bec-9966-99568f2effb6)
+
+Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (already sorted):
 
 Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (shuffled):
 
